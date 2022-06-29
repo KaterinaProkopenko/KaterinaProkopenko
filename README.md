@@ -1,4 +1,4 @@
-## <p align="center">Hi, I'm Ekaterina, a junior full stack web developer👋💻<p/>
+## <p align="center">Hi, I'm Ekaterina, a junior full stack web developer👋🙃<p/>
 </br>
 
 <h3>My Languages and Tools<h/3>
