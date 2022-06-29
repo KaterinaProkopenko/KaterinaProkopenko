@@ -1,4 +1,5 @@
-<h2 align="center">Hi, I'm Ekaterina, a junior full stack web developer👋💻<h2/>
+## <p align="center">Hi, I'm Ekaterina, a junior full stack web developer👋💻<p/>
+</br>
 
 <h3>My Languages and Tools<h/3>
 
@@ -14,13 +15,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="Laravel" width="45px">&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="Git" width="45px">&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="45px">
-  <br/><br/>
+  <br/><br/></br>
 </div>
 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaterinaProkopenko&layout=compact&theme=tokyoday" width="50%"><br/><br/>
+ 
 <h3>My social media<h/3><br/>
 <a href="https://www.linkedin.com/in/ekaterina-prokopenko-833b131a2">
   <img src="https://www.logosvgpng.com/wp-content/uploads/2021/12/linkedin-logo-vector-2021.png" alt="Linkedin" width="80px">
-</a><br/><br/>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaterinaProkopenko&layout=compact&theme=tokyonight)
+</a>
